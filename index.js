@@ -16,7 +16,7 @@ function yourAnimal() {
   var animal = 'cat';
   return animal;
 }
-function
+function add2n
   return n + two
 
   // Feel free to move things around!
