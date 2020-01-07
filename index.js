@@ -13,7 +13,7 @@ function yourAnimal() {
 }
 
 function yourAnimal() {
-  var animal 
+  var animal = 'cat'
 }
 
   return n + two
