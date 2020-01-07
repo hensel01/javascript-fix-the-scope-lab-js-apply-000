@@ -13,7 +13,7 @@ function yourAnimal() {
 }
 
 function yourAnimal() {
-  var
+  var animal 
 }
 
   return n + two
